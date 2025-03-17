@@ -612,6 +612,11 @@ a {
     justify-content: center;
     width: 28px;
     height: 28px;
+    background: #f9f9f9;
+}
+
+.footer .socaial-link + .socaial-link {
+    padding-left: 16px;
 }
 
 .footer .socaial-link:hover {
